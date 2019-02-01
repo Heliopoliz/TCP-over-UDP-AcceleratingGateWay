@@ -1,0 +1,1 @@
+\cp -r -a /mnt/hgfs/shareFedora/gatewaycode/* /home/chenzhiyi/doublegateway
